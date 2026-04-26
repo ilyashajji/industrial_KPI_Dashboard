@@ -22,10 +22,9 @@ Démontrer la capacité à analyser des données industrielles et générer des 
 
 ---
 
-### 🚀 Points forts pour les recruteurs
+### 🚀 Points forts 
 - Visualisation claire et interactive des données industrielles
 - Utilisation de technologies modernes (Streamlit, Pandas)
 - Code propre, structuré et facilement extensible
 - Démonstration de compétences en data analysis et dashboarding
 
-> N'hésitez pas à me contacter pour toute collaboration ou opportunité !
